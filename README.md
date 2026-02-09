@@ -13,23 +13,33 @@ Exploratory Data Analysis (EDA) on Uber ride data to identify demand patterns, t
 Methodology
 
 •	Handled missing and inconsistent values
+
 •	Removed duplicates and standardized columns
+
 •	Performed univariate and time-based analysis
+
 •	Created visualizations to understand ride demand patterns
 
 Results
 
 •	Peak ride demand observed during specific hours and days
+
 •	Clear temporal patterns in Uber ride frequency
+
 •	Data cleaning improved consistency and analytical accuracy
+
 •	Visual analysis revealed trends useful for planning and forecasting
 
 Tools and Libraries
 
 •	Python
+
 •	Pandas
+
 •	NumPy
+
 •	Matplotlib
+
 •	Seaborn
 
 Objective
